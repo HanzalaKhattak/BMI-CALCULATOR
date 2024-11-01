@@ -29,6 +29,7 @@ body{
     text-align: center;
     margin-bottom: 30px;
     font-size: 35px;
+    color: #050505;
 }
 
 #weight{
@@ -52,11 +53,18 @@ body{
     width: 150px;
     height: 30px;
     border-radius: 5px;
-    border: none;
+    border-color: #6b9080;
     background-color: #fff;
     margin-top: 20px;
     color: black;
     font-size: 15px;
+}
+
+#result{
+    font-size: larger;
+    font-weight: bold;
+    max-width: 300px;
+    text-align: center;
 }
 
 
